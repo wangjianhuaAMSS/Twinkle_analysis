@@ -1,0 +1,24 @@
+
+**************Fri Sep 15 09:41:27 2023
+**************
+
+**************Fri Sep 15 09:46:24 2023
+**************
+Round 1: minimum active Sbox: 1
+Round 2: minimum active Sbox: 4
+
+**************Fri Sep 15 09:46:55 2023
+**************
+Round 1: minimum active Sbox: 1
+Round 2: minimum active Sbox: 4
+
+**************Mon Sep 25 14:39:35 2023
+**************
+Round 1: minimum active Sbox: 1
+Round 2: minimum active Sbox: 4
+
+**************Tue Sep 26 18:13:37 2023
+**************
+
+**************Wed Sep 27 11:13:08 2023
+**************
