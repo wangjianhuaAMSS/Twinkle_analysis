@@ -1,4 +1,4 @@
-# The source code for the security analysis of the cipher "Twinkle"s 
+# The source code for the security analysis of the PRF "Twinkle"
 
 This folder contains source codes for the paper titled ‘Twinkle: A family of Low-latency Schemes for Authenticated Encryption and Pointer Authentication’.
 
